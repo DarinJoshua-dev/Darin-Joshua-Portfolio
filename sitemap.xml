@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+ <loc>https://darinjoshua-dev.github.io/Darin-Joshua-Portfolio/</loc>
+ <lastmod>2020-08-21</lastmod>
+ <changefreq>weekly</changefreq>
+ <priority>1.00</priority>
+</url>
+<url>
+ <loc>https://darinjoshua-dev.github.io/Darin-Joshua-Portfolio/robots.txt</loc>
+ <lastmod>2020-08-21</lastmod>
+ <changefreq>weekly</changefreq>
+ <priority>0.80</priority>
+</url>
+<url>
+ <loc>https://darinjoshua-dev.github.io/Darin-Joshua-Portfolio/#home-section</loc>
+ <changefreq>weekly</changefreq>
+</url>
+<url>
+ <loc>https://darinjoshua-dev.github.io/Darin-Joshua-Portfolio/index.html#home-section</loc>
+ <lastmod>2020-08-21</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+<url>
+ <loc>https://darinjoshua-dev.github.io/Darin-Joshua-Portfolio/#blog-section</loc>
+ <lastmod>2020-08-21</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+<url>
+ <loc>https://darinjoshua-dev.github.io/Darin-Joshua-Portfolio/single.html#blog-section</loc>
+ <lastmod>2020-08-21</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+<url>
+ <loc>https://darinjoshua-dev.github.io/Darin-Joshua-Portfolio/single.html</loc>
+ <lastmod>2013-01-02</lastmod>
+ <changefreq>weekly</changefreq>
+ <priority>0.70</priority>
+</url>
+</urlset>
